@@ -1,7 +1,7 @@
 pkgbase = android-studio-aarch64
 	pkgdesc = The official Android IDE (Stable branch)
 	pkgver = 2026.1.1.10
-	pkgrel = 3
+	pkgrel = 4
 	url = https://developer.android.com/
 	arch = aarch64
 	license = APACHE
