@@ -1,7 +1,7 @@
 pkgbase = android-studio-aarch64
 	pkgdesc = The official Android IDE (Stable branch)
 	pkgver = 2026.1.1.10
-	pkgrel = 2
+	pkgrel = 3
 	url = https://developer.android.com/
 	arch = aarch64
 	license = APACHE
@@ -20,7 +20,7 @@ pkgbase = android-studio-aarch64
 	source = license.html
 	sha256sums = fbd3f116d12caed724ea8da0d2cdae7e791170f79f2aa11273ea0f2d22a224dc
 	sha256sums = SKIP
-	sha256sums = 73cd2dde1d0f99aaba5baad1e2b91c834edd5db3c817f6fb78868d102360d3c4
+	sha256sums = dbbc253830beb7d061292dd98e75c91ab8318ceabc0e0960256d32b2edc7f7ee
 	sha256sums = 9a7563f7fb88c9a83df6cee9731660dc73a039ab594747e9e774916275b2e23e
 
 pkgname = android-studio-aarch64
