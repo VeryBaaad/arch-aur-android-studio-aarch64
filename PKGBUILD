@@ -41,11 +41,10 @@ package() {
   # Install the application
   install -d $pkgdir/{opt/$pkgname,usr/bin}
   cp -a bin lib plugins license LICENSE.txt build.txt product-info.json $pkgdir/opt/$pkgname
-  ln -s /opt/$pkgname/bin/studio $pkgdir/usr/bin/$pkgname
+  ln -s /opt/$pkgname/bin/studio.sh $pkgdir/usr/bin/android-studio
 
   # Replace JBR
-  mkdir $pkgdir/opt/$pkgname/jbr
-  cp -a "$srcdir/jbr_jcef-$_jbrpkgver-linux-aarch64-$_jbrvername" $pkgdir/opt/$pkgname/jbr
+  mv $srcdir/jbr_jcef-$_jbrpkgver-linux-aarch64-$_jbrvername $pkgdir/opt/$pkgname/jbr
 
   # Copy licenses
   install -Dm644 LICENSE.txt "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE.txt"
