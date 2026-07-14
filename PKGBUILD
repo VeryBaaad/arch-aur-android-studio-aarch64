@@ -1,3 +1,13 @@
+# Contributor:  danyf90 <daniele.formichelli@gmail.com>
+# Contributor: Philipp 'TamCore' B. <philipp [at] tamcore [dot] eu>
+# Contributor: Jakub Schmidtke <sjakub-at-gmail-dot-com>
+# Contributor: Christoph Brill <egore911-at-gmail-dot-com>
+# Contributor: Lubomir 'Kuci' Kucera <kuci24-at-gmail-dot-com>
+# Contributor: Tad Fisher <tadfisher at gmail dot com>
+# Contributor: Philippe Hürlimann <p@hurlimann.org>
+# Contributor: Julian Raufelder <aur@raufelder.com>
+# Contributor: Dhina17 <dhinalogu@gmail.com>
+# Contributor: Kordian Bruck <k@bruck.me>
 # Maintainer: VeryBaaad <verybaaad@outlook.com>
 
 pkgname=android-studio-aarch64
