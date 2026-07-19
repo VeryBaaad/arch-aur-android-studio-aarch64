@@ -11,11 +11,11 @@
 # Maintainer: VeryBaaad <verybaaad@outlook.com>
 
 pkgname=android-studio-aarch64
-pkgver=2026.1.1.10
-_vername="quail1-patch2"
-_jbrpkgver="21.0.8"
-_jbrvername="b1163.59"
-pkgrel=4
+pkgver=2026.1.2.10
+_vername="quail2"
+_jbrpkgver="25.0.3"
+_jbrvername="b508.16"
+pkgrel=1
 pkgdesc="The official Android IDE (Stable branch)"
 arch=('aarch64')
 url="https://developer.android.com/"
@@ -30,7 +30,7 @@ source=("https://dl.google.com/dl/android/studio/ide-zips/$pkgver/android-studio
         "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-$_jbrpkgver-linux-aarch64-$_jbrvername.tar.gz"
         "$pkgname.desktop"
         "license.html")
-sha256sums=('fbd3f116d12caed724ea8da0d2cdae7e791170f79f2aa11273ea0f2d22a224dc'
+sha256sums=('64445a54092e7056c6eb7f1a89ad116d0feec2ef5f965b8e594d62abdb58590f'
             'SKIP'
             'dbbc253830beb7d061292dd98e75c91ab8318ceabc0e0960256d32b2edc7f7ee'
             '9a7563f7fb88c9a83df6cee9731660dc73a039ab594747e9e774916275b2e23e')
