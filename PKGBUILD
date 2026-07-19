@@ -13,9 +13,9 @@
 pkgname=android-studio-aarch64
 pkgver=2026.1.2.10
 _vername="quail2"
-_jbrpkgver="25.0.3"
-_jbrvername="b508.16"
-pkgrel=2
+_jbrpkgver="21.0.11"
+_jbrvername="b1163.116"
+pkgrel=3
 pkgdesc="The official Android IDE (Stable branch)"
 arch=('aarch64')
 url="https://developer.android.com/"

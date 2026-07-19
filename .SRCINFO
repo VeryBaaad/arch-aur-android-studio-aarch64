@@ -1,7 +1,7 @@
 pkgbase = android-studio-aarch64
 	pkgdesc = The official Android IDE (Stable branch)
 	pkgver = 2026.1.2.10
-	pkgrel = 2
+	pkgrel = 3
 	url = https://developer.android.com/
 	arch = aarch64
 	license = APACHE
@@ -15,7 +15,7 @@ pkgbase = android-studio-aarch64
 	optdepends = ncurses5-compat-libs: native debugger support
 	options = !strip
 	source = https://dl.google.com/dl/android/studio/ide-zips/2026.1.2.10/android-studio-quail2-linux.tar.gz
-	source = https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-25.0.3-linux-aarch64-b508.16.tar.gz
+	source = https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-21.0.11-linux-aarch64-b1163.116.tar.gz
 	source = android-studio-aarch64.desktop
 	source = license.html
 	sha256sums = 64445a54092e7056c6eb7f1a89ad116d0feec2ef5f965b8e594d62abdb58590f
