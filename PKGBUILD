@@ -29,7 +29,7 @@ source=("https://dl.google.com/dl/android/studio/ide-zips/$pkgver/android-studio
         "$pkgname.desktop"
         "license.html")
 sha256sums=('64445a54092e7056c6eb7f1a89ad116d0feec2ef5f965b8e594d62abdb58590f'
-            '73cd2dde1d0f99aaba5baad1e2b91c834edd5db3c817f6fb78868d102360d3c4'
+            'fd8b95e05644c6450c0c42295e0f23edf854c8edd605619106dd57ac21a9e858'
             '9a7563f7fb88c9a83df6cee9731660dc73a039ab594747e9e774916275b2e23e')
 
 source_aarch64=("https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-$_jbrpkgver-linux-aarch64-$_jbrvername.tar.gz")
